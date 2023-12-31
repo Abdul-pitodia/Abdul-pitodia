@@ -5,7 +5,7 @@ I am well versed in full stack web development and have a good industry experien
 
 I enjoy solving data structures & algorithmic problems, and I am currently upskilling in System Design and other technologies. 
 
-#### My socials are :
+#### My socials & coding profiles :
 [![](https://img.shields.io/badge/-Abdulmateen--Pitodia-blue?logo=linkedin)](https://www.linkedin.com/in/abdulmateen-pitodia/)
 [![Gmail Badge](https://img.shields.io/badge/-abdulpitodia9@gmail.com-red?logo=gmail&logoColor=white)](mailto:abdulpitodia9@gmail.com)
 [![](https://img.shields.io/badge/-Abdulmateen--Pitodia-white?logo=leetcode)](https://leetcode.com/abdulpitodia9/)
