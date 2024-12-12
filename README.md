@@ -1,8 +1,6 @@
 
 # Hey, I am Abdulmateen Pitodia
-I am currently working as a Senior Product Engineer at LTIMindtree and my expertise is across Java Full Stack technologies which include Angular, TypeScript, Java, Spring Boot. 
-I am well versed in full stack web development and have a good industry experience of 2+ years working in a Product development environment. 
-
+I am currently working as a Software Engineer at HERE Technologies and my expertise is across technologies which include React, TypeScript, Java, NodeJS, Spring Boot, AWS, K8s, Docker.
 I enjoy solving data structures & algorithmic problems, and I am currently upskilling in System Design and other technologies. 
 
 #### My socials & coding profiles :
