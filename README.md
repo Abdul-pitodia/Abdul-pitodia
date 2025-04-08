@@ -1,6 +1,6 @@
 
 # Hey, I am Abdulmateen Pitodia
-I am currently working as a Software Engineer at HERE Technologies and my expertise is across technologies which include React, TypeScript, Java, NodeJS, Spring Boot, AWS, K8s, Docker.
+I am currently working as a Software Engineer and my expertise is across technologies which include React, TypeScript, Java, NodeJS, Spring Boot, AWS, K8s, Docker.
 I enjoy solving data structures & algorithmic problems, and I am currently upskilling in System Design and other technologies. 
 
 #### My socials & coding profiles :
